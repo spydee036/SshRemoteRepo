@@ -2,4 +2,8 @@ added line 1
 added line 2
 added line 3
 added line 4 in remote repo
+<<<<<<< HEAD
 merge local repo
+=======
+added another remote merge
+>>>>>>> c3577517f14b3398b4b1fc0860fc0fc28ae9b339
